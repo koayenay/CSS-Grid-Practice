@@ -218,6 +218,7 @@ footer{
 		text-align: center;
 		margin:auto;
 	}
+}
 	@media(max-width: 500px){
 	.top-container{
 		grid-template-areas: 
@@ -239,5 +240,6 @@ footer{
 		text-align: center;
 		margin:auto;
 	}
+	
 	
 }
